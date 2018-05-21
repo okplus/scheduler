@@ -7,9 +7,7 @@
     "require": {
         "php": ">=7.1"
     },
-    "autoload": {
-        "psr-4": {
-            "okplus\\scheduler\\": "src"
-        }
-    }
+    "bin": [
+        "scheduler"
+    ]
 }
