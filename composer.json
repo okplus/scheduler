@@ -1,0 +1,15 @@
+{
+    "name": "okplus/scheduler",
+    "description": "Scheduler",
+    "type": "library",
+    "keywords": ["library"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "okplus\\scheduler\\": "src"
+        }
+    }
+}
